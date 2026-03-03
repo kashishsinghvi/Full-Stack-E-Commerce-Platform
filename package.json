@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.9.1",
+    "axios": "^1.12.2",
+    "cloudinary": "^2.8.0",
+    "multer": "^2.0.2",
+    "react-redux": "^9.2.0",
+    "streamifier": "^0.1.1"
+  }
+}
